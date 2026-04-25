@@ -39,11 +39,11 @@ The system is implemented using both C and AVR Assembly, demonstrating low-level
 
 ## Project Structure
 
-├── LM35.c               # C implementation
-├── LM35.asm             # AVR Assembly implementation
-├── LM35.hex             # Compiled HEX file for ATmega16
-├── LM35.pdsprj          # Proteus simulation project
-│
+├── LM35.c               # C implementation  
+├── LM35.asm             # AVR Assembly implementation  
+├── LM35.hex             # Compiled HEX file for ATmega16  
+├── LM35.pdsprj          # Proteus simulation project  
+│  
 └── README.md
 
 ---
