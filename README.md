@@ -66,3 +66,12 @@ README.md
 - The project demonstrates both high-level (C) and low-level (Assembly) implementation approaches.
 - The HEX file is ready for direct use in simulation or hardware deployment.
 - All code and simulation files are included for full reproducibility.
+
+---
+
+## Contributers
+
+- Alireza Ranjabr  
+  email: alireza.ranjbar1384@gmail.com  
+- Zahra Zolghadriha  
+  email:rayehezdr@gmai.com  
